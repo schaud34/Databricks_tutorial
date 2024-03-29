@@ -1,0 +1,7 @@
+transformers
+accelerate
+datasets
+mlflow
+torch
+pandas
+numpy
